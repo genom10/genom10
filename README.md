@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @genom10
 - 👀 I’m interested in Robotics, 3D-modelling, Stereometry, Programming, and Games
 - 🌱 I’m currently studying Robotics at Innopolis University
-- 📓 Here are the repositories I am proud of: #TODO
+- 📓 Here are the repositories I am proud of: [Theoretical Mechanics Homeworks](https://github.com/genom10/Theoretical-Mechanics)
 - 📫 How to reach me #TODO
 
 <!---
