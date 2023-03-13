@@ -5,9 +5,10 @@
 
 
 # 📓 Here are the repositories I am proud of:
-## University Homeworks
+## University Practicums
 - [Theoretical Mechanic](https://github.com/genom10/Theoretical-Mechanics)
 - [Sensors and Sensing](https://github.com/genom10/Sensors2023/tree/master)
+- [Differential Equations: Computational Practicum](https://github.com/genom10/Differential-Equations-Computational-Practicum/tree/main) 
 
 <!---
 genom10/genom10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
