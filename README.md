@@ -5,6 +5,8 @@
 
 
 # 📓 Here are the repositories I am proud of:
+## My courses
+- [Introdution to 3D modelling](https://github.com/genom10/I3D_Inno)
 ## University Practicums
 - [Theoretical Mechanic](https://github.com/genom10/Theoretical-Mechanics)
 - [Sensors and Sensing](https://github.com/genom10/Sensors2023/tree/master)
