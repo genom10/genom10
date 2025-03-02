@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @genom10
 - 👀 I’m interested in Robotics, Space, 3D-modelling, Programming, and Games
-- 🌱 I’m currently studying Robotics at Innopolis University
+- 🌱 I’m graduated Robotics at Innopolis University and now looking for job opportunities!
 - 📫 How to reach me: [Telegram](https://t.me/Genom10), [E-mail](mailto:e.dmitriev@innopolis.university)
 
 
